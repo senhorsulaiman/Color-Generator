@@ -134,3 +134,7 @@ display: grid; - This line sets the element's display property to 'grid', enabli
 grid-template-columns: repeat(auto-fit, minmax(223.33px, 1fr)); - This line defines the number of columns and their width in the grid. The repeat() function is used with the auto-fit keyword, which automatically calculates the number of columns based on the container's width and the minimum and maximum column widths specified in minmax(223.33px, 1fr). The minimum width is set to 223.33 pixels, while the maximum width is set to 1 fraction (1fr) of the available space.
 
 grid-template-rows: repeat(auto-fit, minmax(96px, 1fr)); - This line defines the number of rows and their height in the grid, similar to the previous property. The repeat() function is used with the auto-fit keyword, and the minmax() function defines the minimum row height as 96 pixels and the maximum height as 1 fraction (1fr) of the available space.
+
+### Site Link
+
+https://cool-chimera-97e99e.netlify.app/
